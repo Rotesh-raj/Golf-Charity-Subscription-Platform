@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { Heart, Trophy, Users, ArrowRight } from "lucide-react";
-import Landing from "./pages/Landing.jsx";
+
 const Landing = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-emerald-50">
