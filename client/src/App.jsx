@@ -14,7 +14,7 @@ import Scores from "./pages/Scores";
 import Draws from "./pages/Draws";
 import Charities from "./pages/Charities";
 import Winners from "./pages/Winners";
-import Landing from "./pages/landing";
+import Landing from "./pages/Landing";
 import Profile from "./pages/user/profile";
 import Success from "./pages/Success";
 
